@@ -1,0 +1,38 @@
+{
+  "name": "mongoscrapper-mongodb",
+  "version": "1.0.0",
+  "description": "\"This assignment is for Mongo db  class and the focus is in building a mongo scrapper\" ",
+  "main": "node server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yealemiyelij/MongoScrapper-MongoDb.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "mongoose",
+    "node",
+    "mongoscrapper"
+  ],
+  "author": "Wondu Mamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yealemiyelij/MongoScrapper-MongoDb/issues"
+  },
+  "homepage": "https://github.com/yealemiyelij/MongoScrapper-MongoDb#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.14.11",
+    "request": "^2.83.0"
+  }
+}
